@@ -1,6 +1,6 @@
 # Python-URL-To-IP-Converter-IP-KISS
 
-This Is : IP KISS !
+It's : IP KISS !
 
 This is a Powerful Tool for Pentesters to find IP Address Of Any URL . This is Most Important thing before Any Attacks to gather information from your targets . I Write This app With Python Programming Language
 
